@@ -1,0 +1,9 @@
+{
+	"name": "databricks-fpsalura",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9da59afb-f6ed-4ee5-a9f9-d8251b3d7666",
+		"tenantId": "f0a79b7f-242f-451b-8e46-3b5c272838d3"
+	}
+}
